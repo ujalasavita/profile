@@ -10,7 +10,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-patro&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-patro" /> </p> -->
 
 
-- 🌱 I’m currently learning **Spring Security**
+
 
 - 💬 Ask me about **Data Structure, HTML, CSS, JavaScript,**
 
