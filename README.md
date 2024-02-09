@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://user-images.githubusercontent.com/107461385/225531601-c3505583-57f8-4572-9ed6-2cdd3a814de7.png](https://www.webefficient.agency/themes/web-efficient-2017/assets/images/og/en/servicii-implementare-frontend.png)"/>
+<img src="https://user-images.githubusercontent.com/107461385/225531601-c3505583-57f8-4572-9ed6-2cdd3a814de7.png](https://www.webefficient.agency/themes/web-efficient-2017/assets/images/og/en/servicii-implementare-frontend.png)"/>
 </p>
 
 <h1 align="center">Hi there 👋, I am ujala savita </h1>
